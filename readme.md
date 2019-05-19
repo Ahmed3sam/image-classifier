@@ -21,7 +21,7 @@ it has drop out to prevent overfitting
 the results was not bad but also not good
 training accuracy: 83.4% (increasing gradually)
 validation accuracy: 67.92% (increasing in zigzag shapes due to the small dataset)
-![alt text](https://github.com/Ahmed3sam/image-classifier/image/figure.PNG)
+![alt text](https://github.com/Ahmed3sam/image-classifier/blob/master/image/figure.PNG)
 
 
 * I think that test accuracy will be about 55 - 60 %
