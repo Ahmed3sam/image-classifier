@@ -19,8 +19,10 @@ it has drop out to prevent overfitting
 
 ##results
 the results was not bad but also not good
-training accuracy: 83.4% (increasing gradually)
-validation accuracy: 67.92% (increasing in zigzag shapes due to the small dataset)
+* training accuracy: 83.4% (increasing gradually)
+* validation accuracy: 67.92% (increasing in zigzag shapes due to the small dataset)
+
+
 ![alt text](https://github.com/Ahmed3sam/image-classifier/blob/master/image/figure.PNG)
 
 
