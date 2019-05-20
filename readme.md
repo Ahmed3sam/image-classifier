@@ -17,7 +17,7 @@ the dataset given was 495 train-data of *9 classes*
 the model is CNN has 4 layers + final DNN layer 
 it has drop out to prevent overfitting 
 
-##results
+## results
 the results was not bad but also not good
 * training accuracy: 83.4% (increasing gradually)
 * validation accuracy: 67.92% (increasing in zigzag shapes due to the small dataset)
